@@ -1,3 +1,6 @@
 # iris--datasets
 The model to predict iris flower 
-with using KNN algorithm ,DecisionTreeClassifier and KMeans Algorithm to perdict
+with using 
+1. KNN algorithm 
+2. DecisionTreeClassifier and 
+3. KMeans Algorithm to perdict
